@@ -1,0 +1,14 @@
+.container
+{
+    background-color: rgb(199, 232, 232);
+    display: flex;    
+}
+.box1 {
+    background-color: chocolate;
+}
+.box2 {
+    background-color: cornflowerblue;
+}
+.box3 {
+    background-color: crimson;
+}
